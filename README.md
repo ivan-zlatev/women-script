@@ -5,7 +5,7 @@ usage:
 
 This generates sentence.html file that looks something like this:
 
-    ![Alt text](preview.png?raw=true "")
+    ![preview image](preview.png)
 
 Women's script taken from https://www.coppermind.net/wiki/Women%27s_script
 
